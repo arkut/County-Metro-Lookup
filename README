@@ -1,0 +1,5 @@
+# COUNTY-METRO LOOKUP TOOL #
+This tool allows users to enter a 5-digit U.S. county FIPS code (SSCCC) 
+and get back a 5-digit Metropolitan Statistical Area (MSA) for a user-selected year, 
+along with the names of the county and MSA.
+(MSA boundaries, codes, and names are established by the U.S. Office of Management and Budget on an annual basis.)
